@@ -1,0 +1,14 @@
+{
+    "_":"telegram",
+    "media":"water",
+    "meter":"hydrus",
+    "name":"",
+    "id":"01234567",
+    "at_date":"2025-12-31",
+    "flow_temperature_c":13.5,
+    "remaining_battery_life_y":11.734124,
+    "total_m3":83.652,
+    "total_at_date_m3":58.693,
+    "status":"OK",
+    "timestamp":"2026-02-03T20:47:36Z"
+}
