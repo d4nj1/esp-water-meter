@@ -26,6 +26,8 @@ esp32:
     type: esp-idf
     advanced:
       minimum_chip_revision: "3.1"
+      loop_task_stack_size: 16384 # required to prevent stack overflow errors
+      #sram1_as_iram: true # +40 KB IRAM (requires bootloader from ESP-IDF >= 5.1)
 
 logger:
   id: component_logger

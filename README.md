@@ -7,7 +7,7 @@ Diehl Hydrus water meter esphome config for a ESP32 with a CC1101 device working
 
 ## Install esphome via pip if needed
 
-`pip3 install esphome==2026.4.0`
+`pip3 install esphome==2026.4.4`
 
 ## Compile the project
 
